@@ -1,0 +1,4 @@
+INDEX VERSION 1.131+D:\contactmanager\.metadata\.plugins\org.eclipse.jdt.core
+14790385.index
+1865797976.index
+14504093.index
